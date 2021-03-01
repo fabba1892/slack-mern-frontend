@@ -19,3 +19,5 @@ function Message({ message, timestamp, user, userImage }) {
 }
 
 export default Message
+// message component and props to render in Chat
+
