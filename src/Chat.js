@@ -70,3 +70,5 @@ import Pusher from 'pusher-js'
 }
 
 export default Chat
+// create chat sections and styling
+
