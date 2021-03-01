@@ -41,3 +41,5 @@ const SidebarOption = ({ Icon, id, addChannelOption, title }) => {
 
 export default SidebarOption
 // sidebar options with props and icons created and styled
+// create addchannel and channel routing onClick
+
