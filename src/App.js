@@ -42,3 +42,5 @@ function App() {
 
 export default App;
 //  cleanup done, material-ui/core/icons installed Header render
+// installed react-router-dom react route and swicth between channels
+
