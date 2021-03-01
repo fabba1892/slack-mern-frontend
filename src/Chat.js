@@ -71,4 +71,6 @@ import Pusher from 'pusher-js'
 
 export default Chat
 // create chat sections and styling
+// create and connects to db and get the messages nd room detail
+
 
