@@ -45,4 +45,4 @@ export default App;
 // installed react-router-dom react route and swicth between channels
 // state for authentication login
 // login imported rendered, google auth created
-
+// dispatch user in dl & dispcth the action to login user
