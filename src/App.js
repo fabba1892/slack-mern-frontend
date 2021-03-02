@@ -44,5 +44,5 @@ export default App;
 //  cleanup done, material-ui/core/icons installed Header render
 // installed react-router-dom react route and swicth between channels
 // state for authentication login
-
+// login imported rendered, google auth created
 

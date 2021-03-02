@@ -81,3 +81,4 @@ const Sidebar = () => {
 
 export default Sidebar
 // sidebar options with props and icons created and styled
+// login imported rendered, google auth created
