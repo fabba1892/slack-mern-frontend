@@ -29,3 +29,5 @@ const Header = () => {
 }
 
 export default Header
+// pass in user Google image and name/details in sidebr/headr
+
