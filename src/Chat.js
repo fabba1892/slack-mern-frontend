@@ -73,5 +73,6 @@ export default Chat
 // create chat sections and styling
 // create and connects to db and get the messages nd room detail
 // message component and props to render in Chat
+// created the chat an chatInput into the db onchange and db collection the data and display in ch
 
 

@@ -38,3 +38,5 @@ function ChatInput({ channelName, channelId }) {
 }
 
 export default ChatInput
+// created the chat an chatInput into the db onchange and db collection the data and display in ch
+
